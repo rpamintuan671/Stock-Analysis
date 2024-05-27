@@ -18,17 +18,17 @@ The refactored code performed efficiently compared to the original VBA scripts d
 ## Summary: 
 
 ### Advantages of Refacored Codes
-The advantages of refactoring codes is to saves time and money. Refactored codes provides a blueprint or roadmap of codes that is already working before. If the refactored code was written properly and clean then it would be easier to update or make few changes and save time.
+The advantages of refactoring codes was to saves time and money. Refactored codes provides a blueprint or roadmap of codes that was already working before. If the refactored code was written properly and clean then it would be easier to update or make few changes and save time.
 
 ### Disadvantages of Refactored Codes
-The disadvantages of refactored codes is the opposite of the advantages. It can be risky if the the code was from unknown programmer. It can be risky because the code may be unorganized, difficulty to understand which can take more time to debugg and cost more money in the long run. 
+The disadvantages of refactored codes was the opposite of the advantages. It can be risky if the the code was from unknown programmer. It can be risky because the code may be unorganized, difficulty to understand which can take more time to debugg and cost more money in the long run. 
 
 
 ### Pros on Refactored Codes from the Original VBA Script
-The refactored codes provided guidance where to begin and how to structure the codes. It is also easier to understand the format to keep the new codes clean and organized.
+The refactored codes provided guidance where to begin and how to structure the codes. It was also easier to understand the format to keep the new codes clean and organized.
 
 ### Cons on Refactored Codes from the Original VBA Script 
-Refactored codes can be a disadvantage depending on the student and how well they understand the concepts and logic of the VBA codes. It can be time consumming for student retracing everything from the beginning of the script to understand exactly what is happening within the script. 
+Refactored codes can be a disadvantage depending on the student and how well they understand the concepts and logic of the VBA codes. It can be time consumming for student retracing everything from the beginning of the script to understand exactly what was happening within the script. 
 
 
 
