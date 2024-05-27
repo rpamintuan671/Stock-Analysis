@@ -1,4 +1,4 @@
-# VBA Challenge Using Refactor Code
+# VBA Challenge Using Refactored Code
 
 ## Overview of Project
 In this project, I used refactored code to determine if it would save time compared to creating it from scratch. I also evaluated whether the new code would run faster when computing larger datasets. I tested and debugged the code, then organized it for easier maintenance for future users. The purpose of this project was to gain experience with refactored code, assessing if it would lead to quicker completion, cleaner results, and efficient handling of larger datasets compared to green_stocks.xlsm.
@@ -17,7 +17,7 @@ The refactored code performed efficiently compared to the original VBA scripts d
 
 ## Summary: 
 
-### Advantages of Refacored Codes
+### Advantages of Refactored Codes
 The advantages of refactoring codes was to saves time and money. Refactored codes provides a blueprint or roadmap of codes that was already working before. If the refactored code was written properly and clean then it would be easier to update or make few changes and save time.
 
 ### Disadvantages of Refactored Codes
