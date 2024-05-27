@@ -1,8 +1,7 @@
 # VBA Challenge Using Refactor Code
 
 ## Overview of Project
-In this project, we will be using refactored codes to see if it would save time instead of creating it from scratch and we would also find out whether the new code would run faster when it comes to computing larger data. I will be testing and debugging the codes then organize it so it would be easier to maintain the codes in the future for the next user. The purpose of this project is to obtain experience on using refactor codes whether it would be quicker to complete the project, cleaner and be able to handle analyzing larger set of data efficiently compared to green_stocks.xlsm. 
-
+In this project, I used refactored code to determine if it would save time compared to creating it from scratch. I also evaluated whether the new code would run faster when computing larger datasets. I tested and debugged the code, then organized it for easier maintenance for future users. The purpose of this project was to gain experience with refactored code, assessing if it would lead to quicker completion, cleaner results, and efficient handling of larger datasets compared to green_stocks.xlsm.
 
 ## Results
 The refactored codes performed efficiently compared to original VBA scripts due to cleaner coding on LOOP. The refactored code elapse time is roughly seven seconds faster compared to the original. Now, in comparison of stocks performance between 2017 and 2018. The stocks performance significantly higher in 2017 compared to 2018 due to many factors that affects the stock performance overall in real world. In 2018, few factors that the caused the stock market to unfavorably low. Few of the factors that affected stocks in 2018 on a downward spiral was the trade war between U.S. and China. It slowed down economic growth, tariffs were imposed on imported aluminum, steel and other goods. Federal Reserved rate increased can also one of the factor that can affect the overall performance of the stocks. 
